@@ -2,7 +2,7 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "spell",
   "title": "Spell",
-  "description": "Struggling to spell a word? Now, even with typos, you can type the word and receive a list of matching suggestions using OneLook API.",
+  "description": "Struggling to spell a word? With this extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API.",
   "icon": "icon.png",
   "author": "Gorzog",
   "license": "MIT",

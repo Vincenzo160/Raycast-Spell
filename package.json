@@ -2,15 +2,15 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "spell",
   "title": "Spell",
-  "description": "How do you spell that?",
-  "icon": "command-icon.png",
+  "description": "Struggling to spell a word? Now, even with typos, you can type the word and receive a list of matching suggestions using OneLook API.",
+  "icon": "icon.png",
   "author": "Gorzog",
   "license": "MIT",
   "commands": [
     {
       "name": "index",
       "title": "Spell",
-      "description": "Spell a word",
+      "description": "Uses OneLook API to get a list of words that match the given word.",
       "mode": "view"
     }
   ],
